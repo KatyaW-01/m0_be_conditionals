@@ -55,10 +55,12 @@ puts "is number_teachers less than number_students?", number_teachers < number_s
 
 puts 4 < 9
 #YOU DO: Explain.
+#this code will evaluate to true if 4 is less than 9 or false if 4 is not less than 9
 
 books = 3
 puts 4 < books
 # YOU DO: Explain.
+
 
 friends = 6
 siblings = 2
