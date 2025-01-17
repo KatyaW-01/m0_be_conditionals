@@ -67,17 +67,20 @@ puts 4 < 9
 books = 3
 puts 4 < books
 # YOU DO: Explain.
+#this code will evaluate to true if 4 is less than the number of books(which is 3, so it will not be true)
 
 
 friends = 6
 siblings = 2
 puts friends > siblings
 # YOU DO: Explain.
+#this code will evaluate to true if the number of friends is greater than the number of siblings
 
 attendees = 9
 meals = 8
 puts attendees != meals
 # YOU DO: Explain.
+#this code will evaluate to true if the number of attendees does not equal the number of meals
 
 
 #-------------------
